@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 // !!! REPLACE THESE URLs WITH YOUR ACTUAL PUBLISHED GOOGLE SHEET CSV URLs !!!
-const MASTER_QUIZ_DATA_URL = 'YOUR_MASTER_QUIZ_DATA_CSV_URL_HERE';
-const QUESTION_DATA_URL = 'YOUR_QUESTION_DATA_CSV_URL_HERE';
+const MASTER_QUIZ_DATA_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR22OeWtUj1ODFBbVBaiSfsp4anSLyfGk2r5JWKu-9TPwklSoiCk4Qste_zDMAsoTCpOPG7qGLj7wOc/pub?gid=671815293&single=true&output=csv';
+const QUESTION_DATA_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR22OeWtUj1ODFBbVBaiSfsp4anSLyfGk2r5JWKu-9TPwklSoiCk4Qste_zDMAsoTCpOPG7qGLj7wOc/pub?gid=171497066&single=true&output=csv';
 
 // --- GLOBAL DATA VARIABLES ---
 let allMasterQuizData = [];
